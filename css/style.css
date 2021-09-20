@@ -11,7 +11,14 @@ h1 {
     size: 60px;
 }
 
-@media (max-width : 320px) {
-    .visibledevice {display:block;}
-    .visibledesktop {display:none;}
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+li {
+    list-style: none;
+    text-align: center;
 }
