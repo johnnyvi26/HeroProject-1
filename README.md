@@ -33,7 +33,7 @@ in your screen with a nice image of your characer.
 
 # Getting starter
 
-/Users/johnnyvillavicencio/Desktop/GA/HeroProject-1/index.html to deply the application!
+[Link to app!](https://www.google.com) to deply the application!
 
 
 
