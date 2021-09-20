@@ -38,8 +38,11 @@ https://imgur.com/21pT0K5
 
 # Getting starter
 
-[Link to app!](/Users/johnnyvillavicencio/Desktop/GA/HeroProject-1/index.html) to deply the application!
+[Link to app!](file:///Users/johnnyvillavicencio/Desktop/GA/HeroProject-1/index.html) to deply the application!
 
+# Future Features
 
+- being able to compare with other pokemons
+- keep track of favorite pokemons
 
 
