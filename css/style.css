@@ -1,4 +1,17 @@
 body {
-    background-color: black;
-    color:blanchedalmond;
+    text-align: center;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQJTWqDf9Lp2ps93v4_DRXKK9vyqa2f9oAZA&usqp=CAU');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color:rgb(29, 28, 26);
+}
+
+h1 {
+    size: 60px;
+}
+
+@media (max-width : 320px) {
+    .visibledevice {display:block;}
+    .visibledesktop {display:none;}
 }
