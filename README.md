@@ -12,18 +12,17 @@ in your screen with a nice image of your characer.
 - CSS
 - JavaScript
 - JQuery
-- SuperHero API
+- PokeAPI
 
 # How It Works
 
-- /id	GET	Search by character id. Returns all information of the character.
-- /id/powerstats	GET	Returns JSON Array of all powerstats of given character.
-- /id/biography	GET	Returns JSON Array of character's biography.
-- /id/appearance	GET	Returns JSON Array of character's appearance.
-- /id/work	GET	Returns JSON Array of character's work i.e. occupation and operation base.
-- /id/connections	GET	Returns JSON Array of character's connections.
-- /id/image	GET	Returns image url of the character.
-- /name	GET	Search character by name. Returns character id.
+- Search by name of the pokemon. Returns all information of the pokemon.
+- GET	Returns JSON Array of all powerstats of given pokemon.
+- GET	Returns JSON Array of character's types.
+- GET	Returns JSON Array of character's weight.
+- GET	Returns JSON Array of character's height.
+- GET	Returns JSON Array of character's powers.
+- GET	Returns image url of the character.
 
 # Screen Shots
 
@@ -34,7 +33,7 @@ in your screen with a nice image of your characer.
 
 # Getting starter
 
-(click here) to deply the application!
+(/Users/johnnyvillavicencio/Desktop/GA/HeroProject-1/index.html) to deply the application!
 
 
 
