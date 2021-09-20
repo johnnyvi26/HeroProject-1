@@ -25,11 +25,16 @@ in your screen with a nice image of your characer.
 - GET	Returns image url of the pokemon.
 
 # Screen Shots
-https://imgur.com/ZgK6eHA
+<img width="994" alt="k" src="https://user-images.githubusercontent.com/82793235/133986128-93bfa675-2535-407e-a3d1-7849920bef13.png">
 
 https://imgur.com/khjIW0n
 
+<img width="994" alt="Screen Shot 2021-09-20 at 6 04 54 AM" src="https://user-images.githubusercontent.com/82793235/133986237-a27e2b75-9672-4f8d-975b-822b288691fc.png">
+
+
 https://imgur.com/21pT0K5
+
+<img width="991" alt="Screen Shot 2021-09-20 at 6 05 16 AM" src="https://user-images.githubusercontent.com/82793235/133986253-8723ad1b-d3a2-4bb5-8b27-e8d6cb658987.png">
 
 # Getting starter
 
