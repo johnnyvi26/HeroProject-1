@@ -38,7 +38,7 @@ https://imgur.com/21pT0K5
 
 # Getting starter
 
-[Link to app!](https://www.google.com) to deply the application!
+[Link to app!](/Users/johnnyvillavicencio/Desktop/GA/HeroProject-1/index.html) to deply the application!
 
 
 
