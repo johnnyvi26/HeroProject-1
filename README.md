@@ -1,9 +1,9 @@
-# My Heroes & Villains
+# My Pokemon
 
-This is a project for people who want to know a few things about their favorite Super-Hero/Villain, by just simply searching for the name of
-whom they're interested in.
-In here, youll be able to find some information related to
-your hero like: powerstats, biography, appearances, where they work at(occupation/operation base), and character connection. All this will be displayed
+This is a project for people who want to know a few things about their favorite pokemon, by just simply searching for the name of
+which poekemon they're interested in.
+In here, you'll be able to find some information related to
+your poekemon: powers, weight, height, and the type. All this will be displayed
 in your screen with a nice image of your characer.
 
 # Technologies Used.
@@ -33,7 +33,7 @@ in your screen with a nice image of your characer.
 
 # Getting starter
 
-(/Users/johnnyvillavicencio/Desktop/GA/HeroProject-1/index.html) to deply the application!
+/Users/johnnyvillavicencio/Desktop/GA/HeroProject-1/index.html to deply the application!
 
 
 
